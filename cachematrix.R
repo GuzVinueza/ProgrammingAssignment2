@@ -6,6 +6,7 @@
 ## It is called to calculate the inverse of a matrix
 ## If the inverse was calculated before it gets the information from memory
 ## oterhwise it calculates it on the fly
+## It is assumed for this assignment that the matrix is always invertible
 
 ## makeCacheMatrix - saves the matrix in memory
 
